@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @itaworld
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning
